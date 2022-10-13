@@ -1,0 +1,15 @@
+{
+
+  "name": "api-heroes",
+  "version": "1.0.0",
+  "description": "Soy una Super API",
+  "main": "server.js",
+  "author": "Stiwar Mosquera Garrido",
+
+"scripts": {
+  "start": "node server.js"
+},
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

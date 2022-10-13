@@ -1,0 +1,26 @@
+{
+  "superheroes": [
+    {
+      "id": "spiderman",
+      "top": "1",
+      "nombre": "SPIDER MAN1",
+      "poderes": "Fuerza - Telaraña",
+      "estreno": "Agosto de 1962",
+      "descripcion": "Spider-Man, traducido en ocasiones como El Hombre Araña,?? es un personaje creado por los estadounidenses Stan Lee y Steve Ditko,?? e introducido en el cámic Amazing Fantasy n.á 15, publicado por Marvel Comics en agosto de 1962.",
+      "editorial": "Marvel Comics",
+      "tipo": "heroes-marvel",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/marvel%2Fspidey.webp?alt=media&token=eaf9b889-256d-4ebd-87dd-23d3df6494f6"
+    },
+    {
+      "id": "hironman",
+      "top": "2",
+      "nombre": "HIRON MAN",
+      "poderes": "Fuerza - HIERRO",
+      "estreno": "Agosto de 1962",
+      "descripcion": "Hombre de Acero, traducido en ocasiones como El Hombre Araña,?? es un personaje creado por los estadounidenses Stan Lee y Steve Ditko,?? e introducido en el cámic Amazing Fantasy n.á 15, publicado por Marvel Comics en agosto de 1962.",
+      "editorial": "Marvel Comics",
+      "tipo": "heroes-marvel",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/superheroes-api.appspot.com/o/marvel%2Fspidey.webp?alt=media&token=eaf9b889-256d-4ebd-87dd-23d3df6494f6"
+    }
+  ]
+}
